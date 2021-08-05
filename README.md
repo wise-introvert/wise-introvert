@@ -7,7 +7,7 @@
 
 > 🏆 349 Contributions in the Year 2021
  > 
-> 📦 45.4 kB Used in Github's Storage 
+> 📦 45.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,16 +44,22 @@ Sunday       79 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               8 mins              █████████████████████████   100.0%
+TypeScript               44 mins             ███████████████████░░░░░░   77.32% 
+JavaScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.19% 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.03% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.0%
+Vim                      49 mins             █████████████████████░░░░   85.0% 
+VS Code                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.0%
 
 🐱‍💻 Projects: 
-breeze-frontend-web      8 mins              █████████████████████████   100.0%
+Unknown Project          49 mins             █████████████████████░░░░   85.0% 
+breeze-frontend-web      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.0%
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.0%
+Linux                    49 mins             █████████████████████░░░░   85.0% 
+Mac                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.0%
 
 ```
 
@@ -74,7 +80,7 @@ Vim script               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/08/2021
+ Last Updated on 05/08/2021
 <!--END_SECTION:waka-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wise-introvert&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
