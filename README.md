@@ -7,7 +7,7 @@
 
 > 🏆 352 Contributions in the Year 2021
  > 
-> 📦 45.7 kB Used in Github's Storage 
+> 📦 46.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,16 +44,19 @@ Sunday       79 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    15 mins             █████████████████░░░░░░░░   68.06% 
+TypeScript               6 mins              ███████░░░░░░░░░░░░░░░░░░   27.83% 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.68% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      23 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+financier                23 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    23 mins             █████████████████████████   100.0%
 
 ```
 
@@ -74,7 +77,7 @@ Vim script               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/08/2021
+ Last Updated on 13/08/2021
 <!--END_SECTION:waka-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wise-introvert&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
