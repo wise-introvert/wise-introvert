@@ -44,18 +44,17 @@ Sunday       79 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 29 mins       ███████████████████████░░   95.4% 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.6%
+TypeScript               1 hr 8 mins         ████████████████████████░   96.53% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47%
 
 🔥 Editors: 
-Vim                      2 hrs 36 mins       █████████████████████████   100.0%
+Vim                      1 hr 10 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-client                   1 hr 25 mins        █████████████░░░░░░░░░░░░   54.83% 
-server                   1 hr 10 mins        ███████████░░░░░░░░░░░░░░   45.17%
+server                   1 hr 10 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 hrs 36 mins       █████████████████████████   100.0%
+Linux                    1 hr 10 mins        █████████████████████████   100.0%
 
 ```
 
@@ -76,7 +75,7 @@ Vim script               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/08/2021
+ Last Updated on 28/08/2021
 <!--END_SECTION:waka-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wise-introvert&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
