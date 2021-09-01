@@ -44,16 +44,16 @@ Sunday       79 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               57 mins             █████████████████████████   100.0%
+TypeScript               54 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-Vim                      57 mins             █████████████████████████   100.0%
+Vim                      54 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-server                   57 mins             █████████████████████████   100.0%
+server                   54 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    57 mins             █████████████████████████   100.0%
+Linux                    54 mins             █████████████████████████   100.0%
 
 ```
 
@@ -74,7 +74,7 @@ Vim script               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2021
+ Last Updated on 01/09/2021
 <!--END_SECTION:waka-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wise-introvert&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
