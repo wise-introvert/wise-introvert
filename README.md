@@ -1,81 +1,82 @@
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90070%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 357 Contributions in the Year 2021
- > 
-> 📦 47.5 kB Used in GitHub's Storage 
- > 
+>
+> 📦 47.5 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 53 Public Repositories 
- > 
-> 🔑 18 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 53 Public Repositories
+>
+> 🔑 18 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.37% 
-🌆 Daytime    141 commits    ███████████████░░░░░░░░░░   62.11% 
-🌃 Evening    57 commits     ██████░░░░░░░░░░░░░░░░░░░   25.11% 
+🌞 Morning    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.37%
+🌆 Daytime    141 commits    ███████████████░░░░░░░░░░   62.11%
+🌃 Evening    57 commits     ██████░░░░░░░░░░░░░░░░░░░   25.11%
 🌙 Night      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.41%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.73% 
-Tuesday      7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08% 
-Wednesday    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
-Thursday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
-Friday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.49% 
-Saturday     59 commits     ██████░░░░░░░░░░░░░░░░░░░   25.99% 
+Monday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.73%
+Tuesday      7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08%
+Wednesday    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45%
+Thursday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45%
+Friday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.49%
+Saturday     59 commits     ██████░░░░░░░░░░░░░░░░░░░   25.99%
 Sunday       79 commits     ████████░░░░░░░░░░░░░░░░░   34.8%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: America/Toronto
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
-TypeScript               24 repos            ███████████████░░░░░░░░░░   60.0% 
-JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
+TypeScript               24 repos            ███████████████░░░░░░░░░░   60.0%
+JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0%
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
 Vim script               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png)
 
+Last Updated on 22/09/2021
 
- Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wise-introvert&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wiseintrovert)](https://github.com/anuraghazra/github-readme-stats)
