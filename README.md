@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120544%20lines%20of%20code-blue)
 
@@ -44,18 +44,20 @@ Sunday       80 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        29 mins             ███████████████████░░░░░░   77.61% 
-Text                     8 mins              █████░░░░░░░░░░░░░░░░░░░░   22.39%
+C                        1 hr 18 mins        ██████████████████████░░░   90.1% 
+Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.9%
 
 🔥 Editors: 
-Neovim                   38 mins             █████████████████████████   100.0%
+Neovim                   1 hr 27 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-IPC-Workshops            29 mins             ███████████████████░░░░░░   77.61% 
-APS                      8 mins              █████░░░░░░░░░░░░░░░░░░░░   22.39%
+project                  39 mins             ███████████░░░░░░░░░░░░░░   45.64% 
+IPC-Workshops            38 mins             ███████████░░░░░░░░░░░░░░   44.46% 
+APS                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 💻 Operating System: 
-Windows                  38 mins             █████████████████████████   100.0%
+Windows                  1 hr 27 mins        █████████████████████████   100.0%
 
 ```
 
@@ -76,7 +78,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2021
+ Last Updated on 06/11/2021
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
