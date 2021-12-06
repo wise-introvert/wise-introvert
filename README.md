@@ -1,7 +1,9 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2055%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128807%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-79135%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -44,17 +46,19 @@ Sunday       82 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        7 mins              █████████████████████████   100.0%
+JavaScript               1 hr 24 mins        ██████████████████████░░░   89.55% 
+C                        9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.45%
 
 🔥 Editors: 
-Neovim                   7 mins              █████████████████████████   100.0%
+Neovim                   1 hr 34 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-ipc-assignment-two       5 mins              █████████████████░░░░░░░░   67.64% 
-IPC                      2 mins              ████████░░░░░░░░░░░░░░░░░   32.36%
+Unknown Project          1 hr 24 mins        ██████████████████████░░░   89.55% 
+ipc-assignment-two       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.3% 
+IPC                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.15%
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.0%
+Windows                  1 hr 34 mins        █████████████████████████   100.0%
 
 ```
 
@@ -75,7 +79,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
