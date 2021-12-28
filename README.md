@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88%20Thousand%20lines%20of%20code-blue)
 
@@ -46,19 +46,16 @@ Sunday       85 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 3 mins         ████████████████████████░   97.67% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+TypeScript               3 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-Neovim                   1 hr 5 mins         █████████████████████████   100.0%
+Neovim                   3 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-shift-tracker            1 hr 4 mins         █████████████████████████   99.97% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+shift-tracker            3 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████████████████   100.0%
+Windows                  3 mins              █████████████████████████   100.0%
 
 ```
 
@@ -79,7 +76,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/12/2021
+ Last Updated on 28/12/2021
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
