@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-184%20Thousand%20lines%20of%20code-blue)
 
@@ -9,7 +9,7 @@
 
 > 🏆 109 Contributions in the Year 2022
  > 
-> 📦 113.3 kB Used in GitHub's Storage 
+> 📦 113.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,7 +85,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/01/2022 13:06:26 UTC
+ Last Updated on 21/01/2022 01:36:02 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
