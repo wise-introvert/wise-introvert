@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-208%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-132%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 197 Contributions in the Year 2022
+> 🏆 205 Contributions in the Year 2022
  > 
-> 📦 113.8 kB Used in GitHub's Storage 
+> 📦 113.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,22 +20,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    114 commits    █████░░░░░░░░░░░░░░░░░░░░   23.36% 
-🌆 Daytime    162 commits    ████████░░░░░░░░░░░░░░░░░   33.2% 
-🌃 Evening    87 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.83% 
-🌙 Night      125 commits    ██████░░░░░░░░░░░░░░░░░░░   25.61%
+🌞 Morning    114 commits    █████░░░░░░░░░░░░░░░░░░░░   22.98% 
+🌆 Daytime    170 commits    ████████░░░░░░░░░░░░░░░░░   34.27% 
+🌃 Evening    87 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
+🌙 Night      125 commits    ██████░░░░░░░░░░░░░░░░░░░   25.2%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
-Tuesday      63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.91% 
-Wednesday    106 commits    █████░░░░░░░░░░░░░░░░░░░░   21.72% 
-Thursday     53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
-Friday       76 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.57% 
-Saturday     57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68% 
-Sunday       100 commits    █████░░░░░░░░░░░░░░░░░░░░   20.49%
+Monday       33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.65% 
+Tuesday      63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
+Wednesday    106 commits    █████░░░░░░░░░░░░░░░░░░░░   21.37% 
+Thursday     53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.69% 
+Friday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
+Saturday     57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
+Sunday       108 commits    █████░░░░░░░░░░░░░░░░░░░░   21.77%
 
 ```
 
@@ -84,7 +84,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2022 16:48:09 UTC
+ Last Updated on 30/01/2022 20:34:51 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
