@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-143%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-148%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 206 Contributions in the Year 2022
+> 🏆 230 Contributions in the Year 2022
  > 
-> 📦 113.9 kB Used in GitHub's Storage 
+> 📦 114.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,11 +70,11 @@ Linux                    9 hrs 17 mins       ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               36 repos            █████████████░░░░░░░░░░░░   53.73% 
-JavaScript               17 repos            ██████░░░░░░░░░░░░░░░░░░░   25.37% 
-C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.99% 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
+TypeScript               36 repos            █████████████░░░░░░░░░░░░   52.94% 
+JavaScript               18 repos            ██████░░░░░░░░░░░░░░░░░░░   26.47% 
+C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
 
 ```
 
@@ -84,7 +84,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/02/2022 20:35:47 UTC
+ Last Updated on 01/02/2022 21:31:25 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
