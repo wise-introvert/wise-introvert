@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-200%20Thousand%20lines%20of%20code-blue)
@@ -44,20 +46,20 @@ Sunday       114 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-TypeScript               5 hrs 9 mins        ████████████████████████░   98.55% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48% 
+TypeScript               5 hrs 13 mins       ████████████████████████░   98.57% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-Neovim                   5 hrs 14 mins       █████████████████████████   100.0%
+Neovim                   5 hrs 18 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sif                      5 hrs 13 mins       █████████████████████████   99.52% 
-web222-sem2              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
+sif                      5 hrs 16 mins       █████████████████████████   99.53% 
+web222-sem2              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
 
 💻 Operating System: 
-Linux                    5 hrs 14 mins       █████████████████████████   100.0%
+Linux                    5 hrs 18 mins       █████████████████████████   100.0%
 
 ```
 
@@ -78,7 +80,7 @@ PowerShell               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/03/2022 04:45:14 UTC
+ Last Updated on 27/03/2022 07:34:50 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
