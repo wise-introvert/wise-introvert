@@ -1,5 +1,7 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2027%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-203%20Thousand%20lines%20of%20code-blue)
 
@@ -44,20 +46,20 @@ Sunday       114 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-TypeScript               5 hrs 13 mins       ████████████████████████░   98.57% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47% 
+TypeScript               6 hrs 1 min         ████████████████████████░   98.34% 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63% 
+LESS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-Neovim                   5 hrs 18 mins       █████████████████████████   100.0%
+Neovim                   6 hrs 8 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sif                      5 hrs 16 mins       █████████████████████████   99.53% 
-web222-sem2              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
+sif                      5 hrs 56 mins       ████████████████████████░   96.96% 
+z-score                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.04%
 
 💻 Operating System: 
-Linux                    5 hrs 18 mins       █████████████████████████   100.0%
+Linux                    6 hrs 8 mins        █████████████████████████   100.0%
 
 ```
 
@@ -78,7 +80,7 @@ PowerShell               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/03/2022 04:43:47 UTC
+ Last Updated on 30/03/2022 05:35:21 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
