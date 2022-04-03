@@ -1,5 +1,7 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2010%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-202%20Thousand%20lines%20of%20code-blue)
 
@@ -44,22 +46,22 @@ Sunday       114 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-TypeScript               3 hrs 35 mins       ████████████████████████░   98.49% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
+TypeScript               3 hrs 32 mins       ████████████████████████░   98.46% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39% 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
 LESS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-Neovim                   3 hrs 39 mins       █████████████████████████   100.0%
+Neovim                   3 hrs 35 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-sif                      2 hrs 23 mins       ████████████████░░░░░░░░░   65.66% 
-z-score                  1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   33.57% 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
+sif                      2 hrs 20 mins       ████████████████░░░░░░░░░   65.1% 
+z-score                  1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   34.12% 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
 
 💻 Operating System: 
-Linux                    3 hrs 39 mins       █████████████████████████   100.0%
+Linux                    3 hrs 35 mins       █████████████████████████   100.0%
 
 ```
 
@@ -80,7 +82,7 @@ PowerShell               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/04/2022 04:43:04 UTC
+ Last Updated on 03/04/2022 08:41:07 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
