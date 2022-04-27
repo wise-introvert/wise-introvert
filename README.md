@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-229%20Thousand%20lines%20of%20code-blue)
 
@@ -9,7 +9,7 @@
 
 > 🏆 521 Contributions in the Year 2022
  > 
-> 📦 134.8 kB Used in GitHub's Storage 
+> 📦 134.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,7 +82,7 @@ PowerShell               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/04/2022 17:43:21 UTC
+ Last Updated on 27/04/2022 20:38:51 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
