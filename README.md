@@ -46,17 +46,16 @@ Sunday       61 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-TypeScript               1 hr 3 mins         ████████████████████████░   98.67% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 4 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-z-score                  1 hr 4 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 4 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -77,7 +76,7 @@ PowerShell               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/06/2022 04:52:10 UTC
+ Last Updated on 01/06/2022 06:00:25 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
