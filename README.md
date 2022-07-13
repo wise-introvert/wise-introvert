@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-235%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-234%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 533 Contributions in the Year 2022
+> 🏆 535 Contributions in the Year 2022
  > 
 > 📦 127.2 kB Used in GitHub's Storage 
  > 
@@ -21,17 +21,17 @@
 
 ```text
 🌞 Morning    49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
-🌆 Daytime    316 commits    ███████████████░░░░░░░░░░   59.51% 
+🌆 Daytime    314 commits    ██████████████░░░░░░░░░░░   59.13% 
 🌃 Evening    119 commits    █████░░░░░░░░░░░░░░░░░░░░   22.41% 
-🌙 Night      47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85%
+🌙 Night      49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday       51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.6% 
-Tuesday      128 commits    ██████░░░░░░░░░░░░░░░░░░░   24.11% 
-Wednesday    140 commits    ██████░░░░░░░░░░░░░░░░░░░   26.37% 
+Tuesday      126 commits    ██████░░░░░░░░░░░░░░░░░░░   23.73% 
+Wednesday    142 commits    ██████░░░░░░░░░░░░░░░░░░░   26.74% 
 Thursday     58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.92% 
 Friday       97 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.27% 
 Saturday     12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
@@ -81,7 +81,7 @@ PowerShell               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/07/2022 05:00:36 UTC
+ Last Updated on 13/07/2022 05:39:55 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
