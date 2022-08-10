@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -9,7 +9,7 @@
 
 > 🏆 543 Contributions in the Year 2022
  > 
-> 📦 128.7 kB Used in GitHub's Storage 
+> 📦 128.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,20 +46,17 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-TypeScript               5 hrs 12 mins       █████████████████████████   99.83% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14% 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+TypeScript               4 hrs 1 min         █████████████████████████   99.82% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
 
 🔥 Editors: 
-Neovim                   5 hrs 13 mins       █████████████████████████   100.0%
+Neovim                   4 hrs 2 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-ui                       5 hrs 9 mins        ████████████████████████░   98.74% 
-api                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+ui                       4 hrs 2 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    5 hrs 13 mins       █████████████████████████   100.0%
+Linux                    4 hrs 2 mins        █████████████████████████   100.0%
 
 ```
 
@@ -80,7 +77,7 @@ PowerShell               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/08/2022 03:51:56 UTC
+ Last Updated on 10/08/2022 06:46:29 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
