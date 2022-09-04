@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -17,6 +17,49 @@
  > 
 > 🔑 31 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.09% 
+🌆 Daytime    307 commits    ██████████████░░░░░░░░░░░   59.15% 
+🌃 Evening    123 commits    ██████░░░░░░░░░░░░░░░░░░░   23.7% 
+🌙 Night      47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.06%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.79% 
+Tuesday      122 commits    ██████░░░░░░░░░░░░░░░░░░░   23.51% 
+Wednesday    138 commits    ██████░░░░░░░░░░░░░░░░░░░   26.59% 
+Thursday     58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
+Friday       97 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
+Saturday     7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
+Sunday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.9%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Toronto
+
+💬 Programming Languages: 
+TypeScript               1 hr 2 mins         █████████████████████░░░░   84.05% 
+JSON                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.95%
+
+🔥 Editors: 
+Neovim                   1 hr 14 mins        █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+Unknown Project          1 hr 14 mins        █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    1 hr 14 mins        █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -34,7 +77,7 @@ PowerShell               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 07:35:50 UTC
+ Last Updated on 04/09/2022 08:47:57 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
