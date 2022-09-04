@@ -56,7 +56,11 @@ Neovim                   1 hr 14 mins        ███████████�
 Unknown Project          1 hr 14 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    1 hr 14 mins        █████████████████████████   100.0%
+node_modules/internal-slo0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
+concat-map               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
+node_modules/es-shim-unsc0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
+node_modules/locate-path 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
+tsconfig-paths           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
 
 ```
 
@@ -77,7 +81,7 @@ PowerShell               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 04:44:22 UTC
+ Last Updated on 04/09/2022 05:49:25 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
