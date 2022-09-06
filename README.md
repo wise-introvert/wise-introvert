@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,19 +46,19 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-TypeScript               2 hrs 48 mins       ██████████████████████░░░   90.94% 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
+TypeScript               5 hrs 12 mins       ███████████████████████░░   94.49% 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
 
 🔥 Editors: 
-Neovim                   3 hrs 5 mins        █████████████████████████   100.0%
+Neovim                   5 hrs 30 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 12 mins       █████████████████░░░░░░░░   71.26% 
-ui                       53 mins             ███████░░░░░░░░░░░░░░░░░░   28.74%
+ui                       3 hrs 17 mins       ███████████████░░░░░░░░░░   59.85% 
+Unknown Project          2 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   40.15%
 
 💻 Operating System: 
-Linux                    3 hrs 5 mins        █████████████████████████   100.0%
+Linux                    5 hrs 30 mins       █████████████████████████   100.0%
 
 ```
 
@@ -79,7 +79,7 @@ PowerShell               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/09/2022 05:08:22 UTC
+ Last Updated on 06/09/2022 06:42:55 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
