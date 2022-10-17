@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -46,16 +46,18 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 7 mins              █████████████████░░░░░░░░   69.72% 
+TypeScript               3 mins              ███████░░░░░░░░░░░░░░░░░░   30.28%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   10 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          7 mins              █████████████████░░░░░░░░   69.72% 
+rest-countries-api       3 mins              ███████░░░░░░░░░░░░░░░░░░   30.28%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    10 mins             █████████████████████████   100.0%
 
 ```
 
@@ -76,7 +78,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/10/2022 06:03:27 UTC
+ Last Updated on 17/10/2022 07:14:23 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
