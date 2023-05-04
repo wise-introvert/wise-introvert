@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,18 +44,20 @@ Sunday                   264 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-TypeScript               21 mins             ████████████████████░░░░░   80.72 % 
-JavaScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+TypeScript               2 hrs 21 mins       ██████████████████████░░░   86.66 % 
+JSON                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🔥 Editors: 
-Neovim                   26 mins             █████████████████████████   100.00 % 
+Neovim                   2 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          26 mins             █████████████████████████   100.00 % 
+Unknown Project          2 hrs 23 mins       ██████████████████████░░░   87.54 % 
+server                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+new-client               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 
 💻 Operating System: 
-Linux                    26 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +77,7 @@ Handlebars               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2023 04:26:40 UTC
+ Last Updated on 04/05/2023 05:24:36 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
