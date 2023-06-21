@@ -44,20 +44,16 @@ Sunday                   269 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-JavaScript               17 mins             ██████████████████████░░░   86.08 % 
-JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-sh                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-e2e233d9-375f-4d65-aab5-320 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -77,7 +73,7 @@ Handlebars               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2023 04:26:03 UTC
+ Last Updated on 21/06/2023 05:25:38 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
