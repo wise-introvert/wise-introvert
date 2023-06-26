@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,17 +44,17 @@ Sunday                   269 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-TypeScript               18 mins             ███████████████████████░░   93.11 % 
-JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+TypeScript               1 hr 2 mins         ████████████████████████░   97.85 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editors: 
-Neovim                   20 mins             █████████████████████████   100.00 % 
+Neovim                   1 hr 4 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-phorum                   20 mins             █████████████████████████   100.00 % 
+phorum                   1 hr 4 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    20 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,7 +74,7 @@ Handlebars               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2023 04:27:29 UTC
+ Last Updated on 26/06/2023 05:26:14 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
