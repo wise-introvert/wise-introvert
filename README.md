@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 153.9 kB Used in GitHub's Storage 
+> 📦 154.1 kB Used in GitHub's Storage 
  > 
 > 🏆 413 Contributions in the Year 2023
  > 
@@ -75,7 +75,7 @@ Handlebars               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2023 17:26:20 UTC
+ Last Updated on 29/06/2023 18:27:52 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
