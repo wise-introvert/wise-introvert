@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-802%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-807%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -44,19 +44,20 @@ Sunday                   317 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Other                    13 hrs 46 mins      █████████████████████████   100.00 % 
+Other                    18 hrs 21 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 46 mins      █████████████████████████   100.00 % 
+Chrome                   18 hrs 21 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-etcher                   8 hrs 16 mins       ███████████████░░░░░░░░░░   60.15 % 
-odin-activepieces        3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-alignment-project-server 2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-ai-content-creator       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+etcher                   8 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.10 % 
+odin-activepieces        7 hrs 59 mins       ███████████░░░░░░░░░░░░░░   43.53 % 
+alignment-project-server 2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+iframe-widget-test       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+ai-content-creator       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    13 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,7 +77,7 @@ Handlebars               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2023 05:33:58 UTC
+ Last Updated on 24/11/2023 06:36:10 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
