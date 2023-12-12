@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-887%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-894%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,20 +44,20 @@ Sunday                   317 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Other                    35 hrs 28 mins      █████████████████████████   100.00 % 
+Other                    40 hrs 34 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   35 hrs 28 mins      █████████████████████████   100.00 % 
+Chrome                   40 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-odin-activepieces        25 hrs 4 mins       ██████████████████░░░░░░░   70.72 % 
-pino-pretty              7 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-alignment-project-server 1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-init.lua                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-nvim-treesitter          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+odin-activepieces        25 hrs 5 mins       ███████████████░░░░░░░░░░   61.86 % 
+lsp-zero.nvim            6 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+pino-pretty              6 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+alignment-project-server 1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+init.lua                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Linux                    35 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    40 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -77,7 +77,7 @@ Handlebars               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2023 05:33:29 UTC
+ Last Updated on 12/12/2023 06:35:09 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
