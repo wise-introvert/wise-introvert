@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-928%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-933%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,21 +44,21 @@ Sunday                   317 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Other                    40 hrs 24 mins      █████████████████████████   99.96 % 
+Other                    39 hrs 3 mins       █████████████████████████   99.96 % 
 Figma Design             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Chrome                   40 hrs 25 mins      █████████████████████████   100.00 % 
+Chrome                   39 hrs 4 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-odin-activepieces        22 hrs 27 mins      ██████████████░░░░░░░░░░░   55.55 % 
-lsp-zero.nvim            7 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-ai-content-creator       4 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-dbeaver                  2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-odin-agents              1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+odin-activepieces        24 hrs 47 mins      ████████████████░░░░░░░░░   63.44 % 
+ai-content-creator       4 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Code-Examples            2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+dbeaver                  2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+odin-agents              1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 💻 Operating System: 
-Linux                    40 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -78,7 +78,7 @@ Handlebars               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 19/12/2023 05:32:47 UTC
+ Last Updated on 19/12/2023 06:34:12 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
