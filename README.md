@@ -9,8 +9,6 @@
 
 > 📦 158.5 kB Used in GitHub's Storage 
  > 
-> 🏆 548 Contributions in the Year 2023
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 103 Public Repositories 
@@ -83,7 +81,7 @@ Handlebars               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2023 18:34:13 UTC
+ Last Updated on 29/12/2023 19:30:51 UTC
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
