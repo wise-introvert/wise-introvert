@@ -86,6 +86,6 @@ Handlebars               1 repo              ░░░░░░░░░░░�
  Last Updated on 14/05/2024 13:51:56 UTC
 <!--END_SECTION:waka-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
+![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wise-introvert&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wiseintrovert)](https://github.com/anuraghazra/github-readme-stats)
+[![wise-introvert's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wiseintrovert)](https://github.com/anuraghazra/github-readme-stats)
