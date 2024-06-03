@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C661%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C661%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -8,8 +8,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 160.8 kB Used in GitHub's Storage 
- > 
-> 🏆 71 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,7 +74,7 @@ Handlebars               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2024 16:05:39 UTC
+ Last Updated on 03/06/2024 17:07:08 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
