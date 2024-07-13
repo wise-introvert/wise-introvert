@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C893%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C894%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -9,11 +9,11 @@
 
 > 📦 161.9 kB Used in GitHub's Storage 
  > 
-> 🏆 101 Contributions in the Year 2024
+> 🏆 102 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 105 Public Repositories 
+> 📜 106 Public Repositories 
  > 
 > 🔑 45 Private Repositories 
  > 
@@ -62,11 +62,11 @@ Linux                    39 hrs              ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               62 repos            ███████████████░░░░░░░░░░   59.62 % 
-JavaScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Handlebars               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+TypeScript               63 repos            ███████████████░░░░░░░░░░   60.00 % 
+JavaScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Handlebars               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
 
@@ -76,7 +76,7 @@ Handlebars               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2024 08:55:20 UTC
+ Last Updated on 13/07/2024 09:53:01 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
