@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C561%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C561%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,17 +44,17 @@ Sunday                   819 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    15 hrs 38 mins      ██████████████████████░░░   89.88 % 
-TypeScript               1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    13 hrs 16 mins      ██████████████████████░░░   88.46 % 
+TypeScript               1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 38 mins      ██████████████████████░░░   89.88 % 
-VS Code                  1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Chrome                   13 hrs 16 mins      ██████████████████████░░░   88.46 % 
+VS Code                  1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 
 💻 Operating System: 
-Linux                    17 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,7 +74,7 @@ Handlebars               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2024 19:03:07 UTC
+ Last Updated on 02/09/2024 19:59:19 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
