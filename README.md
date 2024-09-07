@@ -9,11 +9,13 @@
 
 > 📦 166.2 kB Used in GitHub's Storage 
  > 
+> 🏆 340 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 107 Public Repositories 
  > 
-> 🔑 47 Private Repositories 
+> 🔑 48 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -61,9 +63,9 @@ Linux                    6 hrs 24 mins       ████████░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               64 repos            ███████████████░░░░░░░░░░   59.81 % 
-JavaScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+TypeScript               65 repos            ███████████████░░░░░░░░░░   60.19 % 
+JavaScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 Handlebars               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
@@ -75,7 +77,7 @@ Handlebars               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2024 06:08:22 UTC
+ Last Updated on 07/09/2024 07:04:33 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
