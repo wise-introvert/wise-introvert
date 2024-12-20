@@ -9,8 +9,6 @@
 
 > 📦 184.2 kB Used in GitHub's Storage 
  > 
-> 🏆 305 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 109 Public Repositories 
@@ -78,7 +76,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2024 01:15:30 UTC
+ Last Updated on 20/12/2024 02:34:50 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
