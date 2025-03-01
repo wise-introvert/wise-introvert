@@ -44,16 +44,14 @@ Sunday                   1755 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    2 hrs 4 mins        ██████████████░░░░░░░░░░░   54.00 % 
-Arduino                  1 hr 45 mins        ████████████░░░░░░░░░░░░░   46.00 % 
+Other                    2 hrs 4 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-iTerm2                   1 hr 48 mins        ████████████░░░░░░░░░░░░░   47.19 % 
-BraveBrowser             1 hr 45 mins        ████████████░░░░░░░░░░░░░   46.00 % 
-Zoom                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+iTerm2                   1 hr 48 mins        ██████████████████████░░░   87.37 % 
+Zoom                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
 
 💻 Operating System: 
-Mac                      3 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +71,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2025 19:12:36 UTC
+ Last Updated on 01/03/2025 20:03:03 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
