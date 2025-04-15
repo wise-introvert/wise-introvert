@@ -44,21 +44,13 @@ Sunday                   1609 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    2 hrs 49 mins       ██████████████████████░░░   86.16 % 
-Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Shell                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Groff                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-iTerm2                   1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   35.55 % 
-Chrome                   39 mins             █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-BraveBrowser             37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Slack                    32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Cursor                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -78,7 +70,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2025 18:46:53 UTC
+ Last Updated on 15/04/2025 19:43:29 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
