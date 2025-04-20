@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C330%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C330%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -8,8 +8,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 205.6 kB Used in GitHub's Storage 
- > 
-> 🏆 50 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,17 +42,17 @@ Sunday                   1622 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               50 mins             █████████████████████░░░░   83.88 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               54 mins             ████████████████████░░░░░   81.58 % 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Prisma                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔥 Editors: 
-Cursor                   59 mins             █████████████████████████   100.00 % 
+Cursor                   1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    59 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,7 +72,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2025 18:45:04 UTC
+ Last Updated on 20/04/2025 19:42:07 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
