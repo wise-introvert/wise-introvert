@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C331%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C331%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -9,48 +9,14 @@
 
 > 📦 206.1 kB Used in GitHub's Storage 
  > 
+> 🏆 54 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 114 Public Repositories 
  > 
 > 🔑 53 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1166 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-🌆 Daytime                13246 commits       ████████████████░░░░░░░░░   62.92 % 
-🌃 Evening                3493 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-🌙 Night                  3146 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   289 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Tuesday                  4788 commits        ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-Wednesday                8287 commits        ██████████░░░░░░░░░░░░░░░   39.37 % 
-Thursday                 2150 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Friday                   2301 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Saturday                 1576 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-Sunday                   1660 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               13 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Cursor                   13 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -68,7 +34,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2025 18:46:44 UTC
+ Last Updated on 30/04/2025 19:45:37 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
