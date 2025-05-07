@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C331%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C332%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -9,49 +9,14 @@
 
 > 📦 206.1 kB Used in GitHub's Storage 
  > 
+> 🏆 54 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 114 Public Repositories 
  > 
 > 🔑 53 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1166 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-🌆 Daytime                13488 commits       ████████████████░░░░░░░░░   63.08 % 
-🌃 Evening                3560 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-🌙 Night                  3169 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   290 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Tuesday                  4854 commits        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Wednesday                8441 commits        ██████████░░░░░░░░░░░░░░░   39.48 % 
-Thursday                 2194 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Friday                   2323 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Saturday                 1598 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Sunday                   1683 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               32 mins             █████████████████████░░░░   85.67 % 
-JSON                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-
-🔥 Editors: 
-Cursor                   38 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    38 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -69,7 +34,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2025 18:50:08 UTC
+ Last Updated on 07/05/2025 19:46:25 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
