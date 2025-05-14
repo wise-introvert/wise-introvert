@@ -44,15 +44,13 @@ Sunday                   1749 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               12 mins             ███████████████████████░░   91.40 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -72,7 +70,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2025 18:51:09 UTC
+ Last Updated on 14/05/2025 19:46:20 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
