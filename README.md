@@ -9,11 +9,11 @@
 
 > 📦 206.5 kB Used in GitHub's Storage 
  > 
-> 🏆 56 Contributions in the Year 2025
+> 🏆 57 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 114 Public Repositories 
+> 📜 115 Public Repositories 
  > 
 > 🔑 53 Private Repositories 
  > 
@@ -56,11 +56,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               71 repos            ███████████████░░░░░░░░░░   60.17 % 
-JavaScript               22 repos            █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Lua                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+TypeScript               71 repos            ███████████████░░░░░░░░░░   59.66 % 
+JavaScript               22 repos            █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 
@@ -70,7 +70,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2025 15:49:01 UTC
+ Last Updated on 19/05/2025 16:51:52 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
