@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C341%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C341%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,16 +44,16 @@ Sunday                   1859 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-netrw                    9 mins              █████████████░░░░░░░░░░░░   50.72 % 
-Other                    4 mins              ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-pdf                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Text                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+netrw                    9 mins              ███████████░░░░░░░░░░░░░░   45.77 % 
+Other                    4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Text                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+pdf                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 
 🔥 Editors: 
-Neovim                   18 mins             █████████████████████████   100.00 % 
+Neovim                   20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    18 mins             █████████████████████████   100.00 % 
+Linux                    20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +73,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2025 18:50:42 UTC
+ Last Updated on 06/06/2025 19:46:36 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
