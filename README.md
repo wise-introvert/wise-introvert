@@ -9,8 +9,6 @@
 
 > 📦 206.8 kB Used in GitHub's Storage 
  > 
-> 🏆 57 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 115 Public Repositories 
@@ -44,15 +42,14 @@ Sunday                   1912 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 23 mins       ███████████████████░░░░░░   77.41 % 
+Python                   6 hrs 23 mins       ███████████████████░░░░░░   77.42 % 
 TypeScript               1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
 Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 15 mins       █████████████████████████   99.99 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Cursor                   8 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  8 hrs 15 mins       █████████████████████████   100.00 % 
@@ -75,7 +72,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2025 18:51:06 UTC
+ Last Updated on 18/06/2025 19:47:38 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
