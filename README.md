@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C372%20hrs%2036%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
@@ -15,47 +17,6 @@
  > 
 > 🔑 53 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1234 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-🌆 Daytime                16681 commits       ████████████████░░░░░░░░░   64.19 % 
-🌃 Evening                4447 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-🌙 Night                  3625 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   293 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Tuesday                  5756 commits        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Wednesday                10528 commits       ██████████░░░░░░░░░░░░░░░   40.51 % 
-Thursday                 2848 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Friday                   2661 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Saturday                 1931 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Sunday                   1970 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               7 hrs 41 mins       ██████████████░░░░░░░░░░░   54.07 % 
-Python                   4 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.91 % 
-Other                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-
-🔥 Editors: 
-Cursor                   12 hrs 8 mins       █████████████████████░░░░   85.39 % 
-VS Code                  2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-
-💻 Operating System: 
-Windows                  14 hrs 13 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -73,7 +34,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2025 18:51:17 UTC
+ Last Updated on 01/07/2025 19:48:21 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
