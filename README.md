@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C326%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C327%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -63,10 +63,10 @@ Linux                    0 secs              ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               73 repos            ███████████████░░░░░░░░░░   60.83 % 
-JavaScript               22 repos            █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+TypeScript               73 repos            ███████████████░░░░░░░░░░   60.33 % 
+JavaScript               22 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
@@ -77,7 +77,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 11:00:38 UTC
+ Last Updated on 28/09/2025 11:56:39 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
