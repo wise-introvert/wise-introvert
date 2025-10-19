@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C392%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C395%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,17 +44,17 @@ Sunday                   2472 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    4 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   32.18 % 
-TypeScript               4 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.85 % 
-Python                   3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Python                   4 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+TypeScript               4 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+Other                    4 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+Bash                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 🔥 Editors: 
-Cursor                   14 hrs 1 min        █████████████████████████   100.00 % 
+Cursor                   16 hrs 4 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  16 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,7 +74,7 @@ TSQL                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2025 19:04:01 UTC
+ Last Updated on 19/10/2025 19:55:24 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
