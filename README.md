@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C433%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C437%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -17,46 +17,6 @@
  > 
 > 🔑 57 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1340 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-🌆 Daytime                23432 commits       ████████████████░░░░░░░░░   65.91 % 
-🌃 Evening                6303 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-🌙 Night                  4479 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   293 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Tuesday                  7643 commits        █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-Wednesday                14908 commits       ██████████░░░░░░░░░░░░░░░   41.93 % 
-Thursday                 4178 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Friday                   3350 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Saturday                 2608 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Sunday                   2574 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               5 hrs 7 mins        ████████████░░░░░░░░░░░░░   47.69 % 
-Other                    2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-Python                   1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-
-🔥 Editors: 
-Cursor                   10 hrs 43 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  10 hrs 43 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -74,7 +34,7 @@ TSQL                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2025 19:09:35 UTC
+ Last Updated on 06/11/2025 20:01:48 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
