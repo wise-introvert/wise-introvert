@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C588%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C592%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,17 +44,18 @@ Sunday                   2802 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               25 hrs 12 mins      ██████████████████░░░░░░░   73.44 % 
-Python                   6 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-JSON                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+TypeScript               27 hrs 7 mins       ███████████████████░░░░░░   76.55 % 
+Python                   5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Other                    1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+JSON                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-Cursor                   34 hrs 20 mins      █████████████████████████   100.00 % 
+Cursor                   34 hrs 39 mins      ████████████████████████░   97.80 % 
+Firefox                  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 💻 Operating System: 
-Windows                  34 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  35 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,7 +75,7 @@ TSQL                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2025 19:11:39 UTC
+ Last Updated on 13/12/2025 20:05:19 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
