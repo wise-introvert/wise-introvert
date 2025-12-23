@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C651%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C656%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 223.9 kB Used in GitHub's Storage 
+> 📦 224.0 kB Used in GitHub's Storage 
  > 
 > 🏆 83 Contributions in the Year 2025
  > 
@@ -44,18 +44,18 @@ Sunday                   282 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               39 hrs 49 mins      █████████████████████░░░░   85.72 % 
-Other                    4 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Python                   44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+TypeScript               35 hrs 37 mins      █████████████████████░░░░   85.31 % 
+Other                    3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+YAML                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Python                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Markdown                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-Cursor                   43 hrs 21 mins      ███████████████████████░░   93.35 % 
-Firefox                  3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Cursor                   40 hrs 24 mins      ████████████████████████░   96.78 % 
+Firefox                  1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 💻 Operating System: 
-Windows                  46 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  41 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +75,7 @@ TSQL                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 23/12/2025 18:30:46 UTC
+ Last Updated on 23/12/2025 19:28:46 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
