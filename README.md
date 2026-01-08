@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C690%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C694%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,16 +44,17 @@ Sunday                   283 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               15 hrs 44 mins      ███████████████████████░░   91.63 % 
-Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+TypeScript               19 hrs 35 mins      ██████████████████████░░░   89.87 % 
+Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Git Config               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-Cursor                   17 hrs 10 mins      █████████████████████████   100.00 % 
+Cursor                   21 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +74,7 @@ TSQL                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2026 19:30:09 UTC
+ Last Updated on 08/01/2026 20:30:53 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
