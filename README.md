@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C694%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C701%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -44,17 +44,17 @@ Sunday                   283 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               19 hrs 35 mins      ██████████████████████░░░   89.87 % 
-Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Git Config               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+TypeScript               23 hrs 53 mins      ██████████████████████░░░   87.63 % 
+Other                    1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+HTML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Git Config               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔥 Editors: 
-Cursor                   21 hrs 48 mins      █████████████████████████   100.00 % 
+Cursor                   27 hrs 16 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  21 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,7 +74,7 @@ TSQL                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2026 19:29:14 UTC
+ Last Updated on 09/01/2026 20:29:33 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
