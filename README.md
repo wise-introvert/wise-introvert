@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C318%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C318%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -15,7 +15,7 @@
  > 
 > 📜 118 Public Repositories 
  > 
-> 🔑 65 Private Repositories 
+> 🔑 66 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -61,11 +61,11 @@ Windows                  34 hrs 5 mins       ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               75 repos            ██████████████░░░░░░░░░░░   57.69 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-SCSS                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-TSQL                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+TypeScript               75 repos            ██████████████░░░░░░░░░░░   57.25 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+SCSS                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Rich Text Format         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 
 
@@ -75,7 +75,7 @@ TSQL                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2026 20:32:03 UTC
+ Last Updated on 26/04/2026 21:32:07 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
