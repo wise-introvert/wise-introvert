@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C331%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C340%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -44,18 +44,18 @@ Sunday                   288 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               9 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.16 % 
-JavaScript               4 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Markdown                 3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Bash                     2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-JSON                     2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+TypeScript               8 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+HTML                     5 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+JavaScript               4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+JSON                     3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Markdown                 3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 10 mins      ███████████████░░░░░░░░░░   60.56 % 
-Cursor                   12 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   39.44 % 
+VS Code                  19 hrs 27 mins      ██████████████░░░░░░░░░░░   56.75 % 
+Cursor                   14 hrs 49 mins      ███████████░░░░░░░░░░░░░░   43.25 % 
 
 💻 Operating System: 
-Windows                  31 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +75,7 @@ Rich Text Format         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2026 18:52:45 UTC
+ Last Updated on 29/04/2026 19:55:09 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
