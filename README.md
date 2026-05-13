@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C377%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C377%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -44,19 +44,19 @@ Sunday                   288 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-Markdown                 5 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-Bash                     3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Git Config               2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-YAML                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Markdown                 4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+TypeScript               3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+YAML                     2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Git Config               2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Bash                     1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 37 mins      ████████████████░░░░░░░░░   63.30 % 
-Cursor                   5 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-Unknown Editor           2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+VS Code                  9 hrs 32 mins       ███████████████░░░░░░░░░░   59.69 % 
+Cursor                   4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+Unknown Editor           1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 
 💻 Operating System: 
-Windows                  21 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,7 +76,7 @@ Rich Text Format         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2026 19:02:16 UTC
+ Last Updated on 13/05/2026 20:01:51 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
