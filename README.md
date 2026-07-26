@@ -44,19 +44,19 @@ Sunday                   322 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               8 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-Other                    5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Markdown                 5 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Python                   2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-HTML                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+TypeScript               8 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+Other                    5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Markdown                 5 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Python                   2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Bash                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 5 mins       ████████████████████░░░░░   79.38 % 
-Claude Code              5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Zed                      1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+VS Code                  24 hrs 27 mins      ████████████████████░░░░░   81.80 % 
+Claude Code              5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Zed                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Windows                  31 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,7 +76,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:40:32 UTC
+ Last Updated on 26/07/2026 21:16:46 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
