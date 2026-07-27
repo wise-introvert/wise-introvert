@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C132%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C134%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-294%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-296%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,43 +46,44 @@ Sunday                   322 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               8 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-Other                    5 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Markdown                 5 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Python                   2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Bash                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+TypeScript               6 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+Markdown                 5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+Other                    5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+Bash                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+JSON                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 27 mins      ████████████████████░░░░░   81.80 % 
-Claude Code              5 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Zed                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+VS Code                  19 hrs 31 mins      ███████████████████░░░░░░   75.33 % 
+Claude Code              6 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Zed                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Windows                  29 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 10 mins (24.01%)
+⏱ AI Coding Time: 8 hrs 27 mins (32.65%)
 
-✍️ 3,820 lines written by AI, 33,046 lines written by hand (10.36% AI-written)
+✍️ 8,132 lines written by AI, 33,040 lines written by hand (19.75% AI-written)
 
-🔤 19,750,836 Input Tokens, 203,443 Output Tokens
+🔤 25,338,791 Input Tokens, 243,611 Output Tokens
 
-💵 $104.39 Estimated AI Cost This Week
+💵 $131.62 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 22 AI Prompts
+🧠 12 AI Sessions, 42 AI Prompts
 
-Opus                     5,535 lines         █████████████████████████   100.00 % 
+Opus                     10,121 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 10.36% of written lines came from AI
-📚 Verbose Prompter — average 2,273 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 90.08% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 19.75% of written lines came from AI
+📄 Detailed Prompter — average 1,380 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 80.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,7 +103,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:02:33 UTC
+ Last Updated on 27/07/2026 21:37:12 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
