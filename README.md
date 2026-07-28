@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C134%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C145%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-296%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-300%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,44 +46,46 @@ Sunday                   322 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-Markdown                 5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-Other                    5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-Bash                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-JSON                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+TypeScript               10 hrs 18 mins      ████████░░░░░░░░░░░░░░░░░   30.77 % 
+Markdown                 6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Other                    5 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+JSON                     3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Bash                     1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 31 mins      ███████████████████░░░░░░   75.33 % 
-Claude Code              6 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-Zed                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+VS Code                  25 hrs 55 mins      ███████████████████░░░░░░   77.35 % 
+Claude Code              6 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Cursor                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Zed                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Operating System: 
-Windows                  25 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 27 mins (32.65%)
+⏱ AI Coding Time: 12 hrs 18 mins (36.74%)
 
-✍️ 8,132 lines written by AI, 33,040 lines written by hand (19.75% AI-written)
+✍️ 9,287 lines written by AI, 33,450 lines written by hand (21.73% AI-written)
 
-🔤 25,338,791 Input Tokens, 243,611 Output Tokens
+🔤 35,462,043 Input Tokens, 340,175 Output Tokens
 
-💵 $131.62 Estimated AI Cost This Week
+💵 $184.35 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 42 AI Prompts
+🧠 23 AI Sessions, 83 AI Prompts
 
-Opus                     10,121 lines        █████████████████████████   100.00 % 
+Opus                     10,866 lines        ████████████████████████░   95.28 % 
+Cursor                   538 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 19.75% of written lines came from AI
-📄 Detailed Prompter — average 1,380 characters per prompt
+🧑‍💻 Mostly Hands-On — 21.73% of written lines came from AI
+📄 Detailed Prompter — average 1,394 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 80.51% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 78.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,7 +105,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 18:53:01 UTC
+ Last Updated on 28/07/2026 20:40:53 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
