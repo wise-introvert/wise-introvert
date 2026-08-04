@@ -19,6 +19,74 @@
  > 
 > 🔑 71 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1608 commits        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+🌆 Daytime                1119 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+🌃 Evening                1973 commits        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+🌙 Night                  3772 commits        ███████████░░░░░░░░░░░░░░   44.52 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   619 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Tuesday                  1077 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Wednesday                2148 commits        ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+Thursday                 1805 commits        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+Friday                   1299 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Saturday                 1202 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Sunday                   322 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               17 hrs 57 mins      ███████████░░░░░░░░░░░░░░   44.07 % 
+Other                    7 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+JSON                     5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+TSConfig                 2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Markdown                 2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+
+🔥 Editors: 
+VS Code                  29 hrs 20 mins      ██████████████████░░░░░░░   72.01 % 
+Claude Code              10 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+Cursor                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+
+💻 Operating System: 
+Windows                  40 hrs 44 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 22 hrs 37 mins (55.52%)
+
+✍️ 9,106 lines written by AI, 3,735 lines written by hand (70.91% AI-written)
+
+🔤 37,571,297 Input Tokens, 296,468 Output Tokens
+
+💵 $194.14 Estimated AI Cost This Week
+
+🧠 38 AI Sessions, 185 AI Prompts
+
+Opus                     10,503 lines        ████████████████████████░   95.13 % 
+Cursor                   538 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 70.91% of written lines came from AI
+📚 Verbose Prompter — average 3,058 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 32.4% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -36,7 +104,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 06:46:42 UTC
+ Last Updated on 04/08/2026 10:03:46 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
