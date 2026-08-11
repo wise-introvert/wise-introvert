@@ -46,26 +46,26 @@ Sunday                   333 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               16 hrs 33 mins      █████████████░░░░░░░░░░░░   52.78 % 
-Markdown                 5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-JSON                     5 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Other                    2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-XML                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+TypeScript               11 hrs 39 mins      ████████████░░░░░░░░░░░░░   46.72 % 
+Markdown                 5 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+JSON                     4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Other                    2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+XML                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 24 mins      ████████████████████░░░░░   80.96 % 
-Claude Code              5 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+VS Code                  18 hrs 59 mins      ███████████████████░░░░░░   76.07 % 
+Claude Code              5 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
 
 💻 Operating System: 
-Windows                  31 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 21 mins (39.37%)
+⏱ AI Coding Time: 12 hrs 21 mins (49.48%)
 
-✍️ 5,446 lines written by AI, 543 lines written by hand (90.93% AI-written)
+✍️ 5,446 lines written by AI, 385 lines written by hand (93.4% AI-written)
 
 🔤 42,744,791 Input Tokens, 260,435 Output Tokens
 
@@ -78,10 +78,10 @@ Sonnet                   1,803 lines         ████████░░░�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.93% of written lines came from AI
+🤖 AI-Driven — 93.4% of written lines came from AI
 📄 Detailed Prompter — average 855 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 16.79% of changed lines were hand-edited
+🚀 High AI Trust — 12.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -101,7 +101,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 19:32:53 UTC
+ Last Updated on 11/08/2026 21:12:03 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
