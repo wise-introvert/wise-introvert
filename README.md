@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C195%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C198%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-331%20hrs-blue?style=flat)
 
@@ -46,42 +46,40 @@ Sunday                   333 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.72 % 
-Markdown                 5 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-JSON                     4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-Other                    2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-XML                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Markdown                 3 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   33.80 % 
+TypeScript               3 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   32.94 % 
+JSON                     2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Git Config               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 2 mins       ██████████████████░░░░░░░   73.41 % 
-Claude Code              5 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+VS Code                  9 hrs 2 mins        █████████████████████░░░░   85.07 % 
+Claude Code              1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
 
 💻 Operating System: 
-Windows                  19 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 18 mins (59.1%)
+⏱ AI Coding Time: 2 hrs 49 mins (26.53%)
 
-✍️ 4,403 lines written by AI, 158 lines written by hand (96.54% AI-written)
+✍️ 760 lines written by AI, 144 lines written by hand (84.07% AI-written)
 
-🔤 32,909,594 Input Tokens, 209,768 Output Tokens
+🔤 171,472 Input Tokens, 11,404 Output Tokens
 
-💵 $165.01 Estimated AI Cost This Week
+💵 $0.73 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 107 AI Prompts
+🧠 5 AI Sessions, 50 AI Prompts
 
-Opus                     2,844 lines         ███████████████░░░░░░░░░░   61.20 % 
-Sonnet                   1,803 lines         ██████████░░░░░░░░░░░░░░░   38.80 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   760 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.54% of written lines came from AI
-📄 Detailed Prompter — average 830 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 5.01% of changed lines were hand-edited
+🤖 AI-Driven — 84.07% of written lines came from AI
+📝 Concise Prompter — average 208 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 20.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -101,7 +99,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:31:40 UTC
+ Last Updated on 13/08/2026 21:09:18 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
