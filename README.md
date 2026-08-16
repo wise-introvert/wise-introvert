@@ -19,52 +19,6 @@
  > 
 > 🔑 71 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1611 commits        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-🌆 Daytime                1126 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-🌃 Evening                2025 commits        ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-🌙 Night                  3785 commits        ███████████░░░░░░░░░░░░░░   44.28 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   640 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-Tuesday                  1087 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Wednesday                2161 commits        ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-Thursday                 1813 commits        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Friday                   1302 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Saturday                 1211 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Sunday                   333 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-TypeScript               2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Git Config               2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-JSON                     2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Markdown                 1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 20 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  12 hrs 20 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -82,7 +36,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 18:53:12 UTC
+ Last Updated on 16/08/2026 19:39:57 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
