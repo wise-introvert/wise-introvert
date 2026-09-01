@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C282%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C292%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-355%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-363%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,41 +46,45 @@ Sunday                   334 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               31 hrs 5 mins       ███████████████████░░░░░░   76.45 % 
-JSON                     6 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Other                    2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Bash                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Markdown                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+TypeScript               32 hrs 39 mins      ███████████████████░░░░░░   76.97 % 
+JSON                     6 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Other                    2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Markdown                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Git Config               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 2 mins       ████████████████████░░░░░   78.79 % 
-Claude Code              8 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+VS Code                  26 hrs 26 mins      ████████████████░░░░░░░░░   62.35 % 
+Claude Code              8 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Cursor                   6 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Agent                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Windows                  40 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  42 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 9 mins (32.34%)
+⏱ AI Coding Time: 17 hrs 52 mins (42.16%)
 
-✍️ 3,609 lines written by AI, 1,467 lines written by hand (71.1% AI-written)
+✍️ 4,354 lines written by AI, 1,600 lines written by hand (73.13% AI-written)
 
-🔤 5,847,264 Input Tokens, 499,276 Output Tokens
+🔤 5,341,054 Input Tokens, 473,322 Output Tokens
 
-💵 $172.33 Estimated AI Cost This Week
+💵 $144.56 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 129 AI Prompts
+🧠 31 AI Sessions, 153 AI Prompts
 
-Opus                     3,814 lines         █████████████████████████   100.00 % 
+Opus                     3,390 lines         ██████████████████░░░░░░░   73.01 % 
+Grok                     1,253 lines         ███████░░░░░░░░░░░░░░░░░░   26.99 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.1% of written lines came from AI
-📝 Concise Prompter — average 399 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 35.53% of changed lines were hand-edited
+🤖 AI-Driven — 73.13% of written lines came from AI
+📄 Detailed Prompter — average 1,271 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 31.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -100,7 +104,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 18:40:14 UTC
+ Last Updated on 01/09/2026 21:54:18 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
