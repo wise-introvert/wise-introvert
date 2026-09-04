@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C306%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C313%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-372%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-376%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -9,7 +9,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 461.7 kB Used in GitHub's Storage 
+> 📦 461.8 kB Used in GitHub's Storage 
  > 
 > 🏆 138 Contributions in the Year 2026
  > 
@@ -46,45 +46,46 @@ Sunday                   334 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               32 hrs 31 mins      █████████████████░░░░░░░░   67.73 % 
-Other                    5 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Markdown                 5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-JSON                     3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Git Config               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+TypeScript               26 hrs 52 mins      █████████████░░░░░░░░░░░░   52.95 % 
+Other                    11 hrs 19 mins      ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Markdown                 5 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+C#                       2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+JSON                     2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 40 mins      ███████████████░░░░░░░░░░   59.73 % 
-Claude Code              11 hrs 40 mins      ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-Cursor                   7 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Agent                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+VS Code                  29 hrs 16 mins      ██████████████░░░░░░░░░░░   57.66 % 
+Claude Code              13 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+Cursor                   7 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Agent                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 💻 Operating System: 
-Windows                  48 hrs              █████████████████████████   100.00 % 
+Windows                  50 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 15 mins (46.34%)
+⏱ AI Coding Time: 25 hrs 1 min (49.3%)
 
-✍️ 4,279 lines written by AI, 1,356 lines written by hand (75.94% AI-written)
+✍️ 5,552 lines written by AI, 744 lines written by hand (88.18% AI-written)
 
-🔤 3,541,182 Input Tokens, 630,128 Output Tokens
+🔤 4,401,444 Input Tokens, 746,220 Output Tokens
 
-💵 $139.81 Estimated AI Cost This Week
+💵 $146.16 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 241 AI Prompts
+🧠 44 AI Sessions, 301 AI Prompts
 
-Opus                     3,281 lines         ██████████████████░░░░░░░   72.36 % 
-Grok                     1,253 lines         ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+Opus                     4,554 lines         ████████████████████░░░░░   78.42 % 
+Grok                     1,253 lines         █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.94% of written lines came from AI
-📄 Detailed Prompter — average 1,202 characters per prompt
+🤖 AI-Driven — 88.18% of written lines came from AI
+📄 Detailed Prompter — average 1,281 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 27.92% of changed lines were hand-edited
+🚀 High AI Trust — 16.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,7 +105,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 19:43:49 UTC
+ Last Updated on 04/09/2026 22:28:16 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
