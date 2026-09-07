@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C313%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C320%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-376%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-381%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,46 +46,46 @@ Sunday                   334 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               26 hrs 44 mins      █████████████░░░░░░░░░░░░   52.60 % 
-Other                    11 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-Markdown                 5 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-C#                       2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-JSON                     2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+TypeScript               22 hrs 15 mins      ███████████░░░░░░░░░░░░░░   44.72 % 
+Other                    12 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+Markdown                 7 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+JSON                     2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+C#                       2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 7 mins       ██████████████░░░░░░░░░░░   57.30 % 
-Claude Code              13 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-Cursor                   7 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Agent                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+VS Code                  27 hrs 37 mins      ██████████████░░░░░░░░░░░   55.50 % 
+Claude Code              14 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+Cursor                   7 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Agent                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Windows                  50 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  49 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 14 mins (49.65%)
+⏱ AI Coding Time: 25 hrs 55 mins (52.08%)
 
-✍️ 5,552 lines written by AI, 736 lines written by hand (88.3% AI-written)
+✍️ 7,405 lines written by AI, 816 lines written by hand (90.07% AI-written)
 
-🔤 4,403,342 Input Tokens, 746,338 Output Tokens
+🔤 4,394,882 Input Tokens, 873,497 Output Tokens
 
-💵 $146.18 Estimated AI Cost This Week
+💵 $111.13 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 304 AI Prompts
+🧠 45 AI Sessions, 312 AI Prompts
 
-Opus                     4,554 lines         ████████████████████░░░░░   78.42 % 
-Grok                     1,253 lines         █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     6,078 lines         ████████████████████░░░░░   79.50 % 
+Grok                     1,253 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Sonnet                   314 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.3% of written lines came from AI
-📄 Detailed Prompter — average 1,284 characters per prompt
+🤖 AI-Driven — 90.07% of written lines came from AI
+📄 Detailed Prompter — average 1,359 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 16.71% of changed lines were hand-edited
+🚀 High AI Trust — 14.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,7 +105,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 20:40:57 UTC
+ Last Updated on 07/09/2026 23:36:36 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
