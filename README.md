@@ -46,43 +46,43 @@ Sunday                   334 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               14 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   35.27 % 
-Other                    12 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   30.89 % 
-Markdown                 7 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-C#                       2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-JSON                     2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Other                    9 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.52 % 
+TypeScript               8 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+Markdown                 5 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+C#                       2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+JSON                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 12 mins      █████████████████░░░░░░░░   67.53 % 
-Claude Code              12 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   31.09 % 
-Cursor                   33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+VS Code                  18 hrs 41 mins      ███████████████░░░░░░░░░░   61.76 % 
+Claude Code              11 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   36.48 % 
+Cursor                   31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 💻 Operating System: 
-Windows                  40 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 1 min (44.71%)
+⏱ AI Coding Time: 14 hrs 59 mins (49.53%)
 
-✍️ 5,151 lines written by AI, 638 lines written by hand (88.98% AI-written)
+✍️ 4,922 lines written by AI, 551 lines written by hand (89.93% AI-written)
 
-🔤 3,543,125 Input Tokens, 743,926 Output Tokens
+🔤 3,181,305 Input Tokens, 634,884 Output Tokens
 
-💵 $95.94 Estimated AI Cost This Week
+💵 $80.13 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 251 AI Prompts
+🧠 26 AI Sessions, 173 AI Prompts
 
-Opus                     4,884 lines         ███████████████████████░░   93.96 % 
-Sonnet                   314 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Opus                     4,654 lines         ███████████████████████░░   93.68 % 
+Sonnet                   314 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.98% of written lines came from AI
-📄 Detailed Prompter — average 1,084 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 16.54% of changed lines were hand-edited
+🤖 AI-Driven — 89.93% of written lines came from AI
+📄 Detailed Prompter — average 1,319 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 14.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,7 +102,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 19:53:47 UTC
+ Last Updated on 09/09/2026 22:40:33 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
