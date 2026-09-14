@@ -46,42 +46,20 @@ Sunday                   334 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 6 mins        ███████████████░░░░░░░░░░   58.01 % 
-Markdown                 2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-Other                    1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-SCSS                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+TypeScript               28 mins             ██████████████████░░░░░░░   71.36 % 
+JSON                     11 mins             ███████░░░░░░░░░░░░░░░░░░   28.64 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 44 mins       █████████████░░░░░░░░░░░░   53.77 % 
-Claude Code              4 hrs 4 mins        ████████████░░░░░░░░░░░░░   46.23 % 
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 47 mins (54.36%)
-
-✍️ 2,368 lines written by AI, 143 lines written by hand (94.31% AI-written)
-
-🔤 1,325,007 Input Tokens, 312,889 Output Tokens
-
-💵 $40.85 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 42 AI Prompts
-
-Opus                     2,068 lines         ██████████████████████░░░   86.82 % 
-Sonnet                   314 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 94.31% of written lines came from AI
-📄 Detailed Prompter — average 1,484 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 8.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -101,7 +79,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 19:29:55 UTC
+ Last Updated on 14/09/2026 23:14:56 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
