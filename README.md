@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C320%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C329%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-381%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-386%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,19 +46,42 @@ Sunday                   334 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 3 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.62 % 
+TypeScript               3 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.16 % 
+JSON                     1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Diff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 16 mins       █████████████████░░░░░░░░   69.97 % 
+Claude Code              2 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   30.03 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 5 hrs 17 mins (59.02%)
+
+✍️ 4,023 lines written by AI, 149 lines written by hand (96.43% AI-written)
+
+🔤 1,749,401 Input Tokens, 361,583 Output Tokens
+
+💵 $26.37 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 111 AI Prompts
+
+Sonnet                   3,511 lines         █████████████████████░░░░   83.56 % 
+Opus                     691 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.43% of written lines came from AI
+📄 Detailed Prompter — average 1,363 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 19.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -78,7 +101,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 21:36:12 UTC
+ Last Updated on 18/09/2026 00:27:01 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
