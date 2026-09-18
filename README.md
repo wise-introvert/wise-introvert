@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C329%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C334%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-386%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-387%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,42 +46,45 @@ Sunday                   334 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 3 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.62 % 
-TypeScript               3 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.16 % 
-JSON                     1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Diff                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TypeScript               4 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.21 % 
+Markdown                 4 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.43 % 
+JSON                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+YAML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Python                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 16 mins       █████████████████░░░░░░░░   69.97 % 
-Claude Code              2 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   30.03 % 
+VS Code                  9 hrs 25 mins       █████████████████░░░░░░░░   69.90 % 
+Claude Code              3 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+Agent                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Cursor                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Windows                  8 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 17 mins (59.02%)
+⏱ AI Coding Time: 6 hrs 34 mins (48.71%)
 
-✍️ 4,023 lines written by AI, 149 lines written by hand (96.43% AI-written)
+✍️ 4,123 lines written by AI, 1,074 lines written by hand (79.33% AI-written)
 
-🔤 1,749,401 Input Tokens, 361,583 Output Tokens
+🔤 1,819,836 Input Tokens, 378,827 Output Tokens
 
-💵 $26.37 Estimated AI Cost This Week
+💵 $27.40 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 111 AI Prompts
+🧠 11 AI Sessions, 118 AI Prompts
 
-Sonnet                   3,511 lines         █████████████████████░░░░   83.56 % 
-Opus                     691 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Sonnet                   3,611 lines         █████████████████████░░░░   83.94 % 
+Opus                     691 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.43% of written lines came from AI
-📄 Detailed Prompter — average 1,363 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 19.81% of changed lines were hand-edited
+🤖 AI-Driven — 79.33% of written lines came from AI
+📄 Detailed Prompter — average 1,309 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 31.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -101,7 +104,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 19:44:20 UTC
+ Last Updated on 18/09/2026 22:41:30 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
