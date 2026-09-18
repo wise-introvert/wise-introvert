@@ -87,11 +87,11 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               75 repos            ██████████████░░░░░░░░░░░   55.56 % 
-JavaScript               25 repos            █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-SCSS                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+TypeScript               75 repos            ██████████████░░░░░░░░░░░   55.15 % 
+JavaScript               25 repos            █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Shell                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
@@ -101,7 +101,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 11:23:57 UTC
+ Last Updated on 18/09/2026 16:33:13 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
