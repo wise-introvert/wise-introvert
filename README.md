@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C363%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C363%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-403%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-404%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -46,43 +46,42 @@ Sunday                   334 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     11 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   32.20 % 
-Markdown                 9 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-Bash                     5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Other                    4 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Python                   2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+YAML                     8 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+Markdown                 7 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+Other                    6 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Python                   2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Bash                     2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 20 mins      ███████████████░░░░░░░░░░   59.53 % 
-Claude Code              14 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   40.21 % 
-Zed                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Claude Code              15 hrs 32 mins      ██████████████░░░░░░░░░░░   54.36 % 
+VS Code                  13 hrs 3 mins       ███████████░░░░░░░░░░░░░░   45.64 % 
 
 💻 Operating System: 
-Windows                  35 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 44 mins (46.71%)
+⏱ AI Coding Time: 17 hrs 52 mins (62.5%)
 
-✍️ 5,469 lines written by AI, 691 lines written by hand (88.78% AI-written)
+✍️ 5,469 lines written by AI, 249 lines written by hand (95.65% AI-written)
 
-🔤 3,402,705 Input Tokens, 866,310 Output Tokens
+🔤 3,598,963 Input Tokens, 878,406 Output Tokens
 
-💵 $210.48 Estimated AI Cost This Week
+💵 $213.84 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 206 AI Prompts
+🧠 13 AI Sessions, 207 AI Prompts
 
 Opus                     5,487 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.78% of written lines came from AI
-📄 Detailed Prompter — average 607 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 12.97% of changed lines were hand-edited
+🤖 AI-Driven — 95.65% of written lines came from AI
+📄 Detailed Prompter — average 636 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🚀 High AI Trust — 4.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,7 +101,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 22:09:25 UTC
+ Last Updated on 29/09/2026 02:05:44 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
