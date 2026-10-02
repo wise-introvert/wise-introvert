@@ -46,26 +46,25 @@ Sunday                   334 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     6 hrs 15 mins       ████████████████░░░░░░░░░   64.20 % 
-Other                    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Bash                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Other                    1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   41.32 % 
+Markdown                 1 hr 1 min          █████████░░░░░░░░░░░░░░░░   37.33 % 
+Python                   27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 30 mins       ███████████████████░░░░░░   77.03 % 
-Claude Code              2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+Claude Code              2 hrs 14 mins       ████████████████████░░░░░   81.53 % 
+VS Code                  30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
 
 💻 Operating System: 
-Windows                  9 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 14 mins (22.97%)
+⏱ AI Coding Time: 2 hrs 14 mins (81.53%)
 
-✍️ 5,503 lines written by AI, 62 lines written by hand (98.89% AI-written)
+✍️ 5,503 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 865,190 Input Tokens, 187,177 Output Tokens
 
@@ -76,10 +75,10 @@ Windows                  9 hrs 44 mins       ███████████�
 Opus                     5,503 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.89% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📚 Verbose Prompter — average 2,236 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 1.26% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,7 +98,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 19:40:39 UTC
+ Last Updated on 02/10/2026 00:00:14 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
