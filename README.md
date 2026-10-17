@@ -46,41 +46,41 @@ Sunday                   334 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 6 hrs 39 mins       ████████████░░░░░░░░░░░░░   46.15 % 
-Other                    4 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.54 % 
-JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Python                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-HTML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Markdown                 4 hrs 47 mins       ███████████░░░░░░░░░░░░░░   43.71 % 
+Other                    4 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
+Python                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 24 mins      ██████████████████████░░░   86.01 % 
-VS Code                  2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Claude Code              10 hrs 15 mins      ███████████████████████░░   93.69 % 
+VS Code                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 💻 Operating System: 
-Windows                  14 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 43 mins (88.15%)
+⏱ AI Coding Time: 10 hrs 33 mins (96.53%)
 
-✍️ 2,695 lines written by AI, 428 lines written by hand (86.3% AI-written)
+✍️ 2,518 lines written by AI, 32 lines written by hand (98.75% AI-written)
 
-🔤 3,031,811 Input Tokens, 455,608 Output Tokens
+🔤 2,736,858 Input Tokens, 430,962 Output Tokens
 
-💵 $48.65 Estimated AI Cost This Week
+💵 $46.84 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 106 AI Prompts
+🧠 6 AI Sessions, 103 AI Prompts
 
-Sonnet                   2,521 lines         ███████████████████████░░   93.51 % 
-Opus                     175 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Sonnet                   2,519 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.3% of written lines came from AI
-📚 Verbose Prompter — average 4,315 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 36.37% of changed lines were hand-edited
+🤖 AI-Driven — 98.75% of written lines came from AI
+📚 Verbose Prompter — average 4,249 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 1.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -100,7 +100,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 19:33:31 UTC
+ Last Updated on 17/10/2026 22:25:57 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
