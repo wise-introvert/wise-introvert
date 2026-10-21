@@ -46,40 +46,38 @@ Sunday                   334 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 hrs 11 mins       ██████████████████░░░░░░░   72.74 % 
-Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-HTML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Python                   21 mins             ██████████████░░░░░░░░░░░   58.00 % 
+Other                    13 mins             █████████░░░░░░░░░░░░░░░░   37.23 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 59 mins       ███████████████████████░░   91.17 % 
-VS Code                  23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+VS Code                  23 mins             ████████████████░░░░░░░░░   62.77 % 
+Claude Code              13 mins             █████████░░░░░░░░░░░░░░░░   37.23 % 
 
 💻 Operating System: 
-Windows                  4 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  36 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 59 mins (91.24%)
+⏱ AI Coding Time: 13 mins (37.23%)
 
 ✍️ 0 lines written by AI, 13 lines written by hand (0.0% AI-written)
 
-🔤 348,125 Input Tokens, 61,696 Output Tokens
+🔤 716 Input Tokens, 540 Output Tokens
 
-💵 $5.11 Estimated AI Cost This Week
+💵 $0.06 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 29 AI Prompts
+🧠 1 AI Sessions, 0 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,113 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -100,7 +98,7 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wise-introvert/wise-introvert/master/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 20:43:33 UTC
+ Last Updated on 21/10/2026 00:00:23 UTC
 <!--END_SECTION:waka-->
 
 ![WiseIntrovert's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-introvert&count_private=true&show_icons=true)
